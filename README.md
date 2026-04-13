@@ -6,17 +6,9 @@ This repository serves as a portfolio of my journey in mastering GenAI concepts,
 
 ---
 
-## 📚 Table of Contents (Modules)
 
-As I progress through the internship, I will update this list with new assignments and projects:
 
-- [x] **Assignment 1:** Mastering Prompt Templates in LangChain
-- [ ] **Assignment 2:** *(Coming Soon...)*
-- [ ] **Assignment 3:** *(Coming Soon...)*
-
----
-
-## 📝 Current Assignment: Prompt Engineering (LangChain)
+## 📝 Prompt Engineering (LangChain)
 
 ### Objective
 To build dynamic and reusable prompt systems using LangChain, shifting away from standard hardcoded prompts to design real-world Generative AI applications.
